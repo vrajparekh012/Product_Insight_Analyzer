@@ -1,0 +1,100 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background:#f4f6f9;
+}
+
+.container{
+  width:90%;
+  margin:auto;
+  text-align:center;
+}
+
+.title{
+  margin-top:30px;
+  font-size:32px;
+}
+
+.upload-box{
+  margin:30px 0;
+}
+
+button{
+  margin-left:10px;
+  padding:8px 16px;
+  background:#007bff;
+  color:white;
+  border:none;
+  border-radius:5px;
+  cursor:pointer;
+}
+
+button:hover{
+  background:#0056b3;
+}
+
+.charts{
+  display:flex;
+  justify-content:center;
+  gap:40px;
+  margin-top:40px;
+}
+
+.chart-card{
+  background:white;
+  padding:20px;
+  border-radius:10px;
+  width:400px;
+  box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+.issues-card{
+  background:white;
+  margin-top:40px;
+  padding:20px;
+  border-radius:10px;
+  width:500px;
+  margin-left:auto;
+  margin-right:auto;
+  box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+ul{
+  list-style:none;
+  padding:0;
+}
+
+li{
+  padding:8px;
+  border-bottom:1px solid #eee;
+}
+.summary-section{
+display:flex;
+gap:20px;
+justify-content:center;
+margin:20px;
+}
+
+.summary-card{
+background:#f5f5f5;
+padding:15px;
+border-radius:8px;
+width:150px;
+}
+
+.best-product{
+margin-top:20px;
+font-size:20px;
+font-weight:bold;
+}
+
+.recommendations{
+margin-top:20px;
+}
+
+.download-btn{
+background:#007BFF;
+color:white;
+padding:10px 20px;
+text-decoration:none;
+border-radius:5px;
+}

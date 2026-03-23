@@ -1,0 +1,67 @@
+{
+    "dataset_summary": {
+        "total_reviews": 9374,
+        "average_rating": 4.09,
+        "positive_percent": 83.07,
+        "negative_percent": 9.45,
+        "top_issue": "Sound Issue"
+    },
+    "sentiment_distribution": {
+        "Positive": 7787,
+        "Negative": 886,
+        "Neutral": 701
+    },
+    "rating_distribution": {
+        "1": 1090,
+        "2": 308,
+        "3": 622,
+        "4": 1959,
+        "5": 5395
+    },
+    "issues": [
+        {
+            "issue": "Battery Issue",
+            "count": 2213
+        },
+        {
+            "issue": "Sound Issue",
+            "count": 4333
+        },
+        {
+            "issue": "Price Issue",
+            "count": 1788
+        },
+        {
+            "issue": "Quality Issue",
+            "count": 3660
+        },
+        {
+            "issue": "Size/Fit Issue",
+            "count": 423
+        },
+        {
+            "issue": "Delivery Issue",
+            "count": 573
+        },
+        {
+            "issue": "Performance Issue",
+            "count": 530
+        },
+        {
+            "issue": "Durability Issue",
+            "count": 123
+        },
+        {
+            "issue": "Heating Issue",
+            "count": 45
+        },
+        {
+            "issue": "Display Issue",
+            "count": 51
+        }
+    ],
+    "best_product": "Single Product Dataset",
+    "recommendations": [
+        "Product performance is good. Maintain quality standards."
+    ]
+}
